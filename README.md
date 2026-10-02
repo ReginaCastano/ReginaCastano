@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**ReginaCastano/ReginaCastano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏻‍♀️ Sobre mí 
 
-Here are some ideas to get you started:
+Soy una QA Manual apasionada por la calidad de software y la experiencia de usuario. Me destaco por mi atención al detalle, responsabilidad y compromiso, tanto al trabajar en equipo como de forma autónoma. Siempre estoy buscando aprender cosas nuevas, sumar herramientas y enfrentar nuevos desafíos con entusiasmo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+* *API:* Postman  
+* *Bases de Datos:* MySQL
+
+---
+
+## 📈 Proyectos Destacados
+
+* [Testing-QA-Manual](https://github.com/ReginaCastano/Proyecto-Testing-QA-Manual)
+
+---
+
+## 🌍 Más información sobre mí
+
+* *Linkedin:* [Regina Castaño](www.linkedin.com/in/regina-castaño)
